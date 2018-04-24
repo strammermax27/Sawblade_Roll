@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="20" tilewidth="25" tileheight="25" nextobjectid="251">
+ <layer name="Tile Layer 1" width="60" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAA4NcAEsAAAQ==
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="60" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAA4NcAEsAAAQ==
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="238" x="861.331" y="404.476">
+   <polyline points="460.957,62.5663 589.403,-2.30407 675.68,-36.7867 761.611,-55.9193 791.286,-59.3112"/>
+  </object>
+  <object id="241" x="1320" y="472">
+   <polyline points="0,0 -70,52 -158,88 -274,112 -388,116 -498,116"/>
+  </object>
+  <object id="242" x="824" y="588">
+   <polyline points="-458,-112 -636,-214 -736,-256 -792,-276 -830,-282 -842,-280"/>
+  </object>
+  <object id="243" x="354" y="478">
+   <polyline points="16,6 106,62 204,92 368,114 468,110"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits"/>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles"/>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat"/>
+ <objectgroup name="dog">
+  <object id="249" x="756" y="512" width="28" height="32">
+   <properties>
+    <property name="firstSpawn" value="1"/>
+    <property name="multiplicator" value="1.5"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="bee">
+  <object id="250" x="980" y="2" width="24" height="32">
+   <properties>
+    <property name="firstSpawn" value="3"/>
+    <property name="multiplicator" value="1.2"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

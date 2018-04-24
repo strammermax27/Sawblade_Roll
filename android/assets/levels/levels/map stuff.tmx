@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="20" tilewidth="25" tileheight="25">
+ <layer name="Tile Layer 1" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgJD+r+4ICgAAAAAAAAAAAAAAAAAAAGo+gAAB
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgJD+r+4ICgAAAAAAAAAAAAAAAAAAAGo+gAAB
+  </data>
+ </layer>
+ <objectgroup name="staticObjects" width="200" height="20"/>
+ <objectgroup name="Rabbits" width="200" height="20"/>
+ <objectgroup name="SawBaldes" width="200" height="20"/>
+ <objectgroup name="Money" width="200" height="20"/>
+ <objectgroup name="reabbit_obstacles" width="200" height="20">
+  <object x="200" y="175"/>
+  <object x="250" y="175"/>
+  <object x="225" y="125"/>
+  <object x="250" y="175"/>
+  <object x="275" y="175"/>
+  <object x="275" y="175"/>
+  <object x="300" y="150"/>
+  <object x="275" y="125"/>
+  <object x="200" y="125"/>
+  <object x="250" y="150"/>
+  <object x="250" y="125"/>
+  <object x="275" y="200"/>
+  <object x="300" y="225"/>
+  <object x="200" y="200"/>
+  <object x="275" y="225"/>
+  <object x="200" y="225"/>
+  <object x="225" y="175"/>
+  <object x="250" y="225"/>
+  <object x="225" y="225"/>
+  <object x="250" y="200"/>
+  <object x="275" y="225"/>
+  <object x="200" y="175"/>
+  <object x="200" y="225"/>
+  <object x="275" y="125"/>
+  <object x="275" y="150"/>
+  <object x="225" y="125"/>
+  <object x="200" y="200"/>
+  <object x="250" y="125"/>
+  <object x="225" y="225"/>
+  <object x="300" y="125"/>
+  <object x="275" y="150"/>
+  <object x="250" y="225"/>
+  <object x="250" y="200"/>
+  <object x="300" y="175"/>
+  <object x="225" y="175"/>
+  <object x="200" y="150"/>
+  <object x="300" y="150"/>
+  <object x="225" y="150"/>
+  <object x="300" y="225"/>
+  <object x="300" y="200"/>
+  <object x="300" y="175"/>
+  <object x="175" y="250">
+   <polyline points="0,0 150,0 150,-150 0,-150 0,0"/>
+  </object>
+  <object x="200" y="125"/>
+  <object x="300" y="125"/>
+  <object x="300" y="200"/>
+  <object x="225" y="200"/>
+  <object x="275" y="200"/>
+  <object x="250" y="150"/>
+  <object x="225" y="200"/>
+  <object x="200" y="150"/>
+  <object x="225" y="150"/>
+ </objectgroup>
+</map>

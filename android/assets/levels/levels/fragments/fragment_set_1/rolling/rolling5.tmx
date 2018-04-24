@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="80" tilewidth="25" tileheight="25" nextobjectid="245">
+ <layer name="Tile Layer 1" width="200" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1tB6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN4A+gAAAQ==
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="200" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1tB6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN4A+gAAAQ==
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="237" x="0" y="352">
+   <polyline points="0,0 12,1.33333 28,4 54.6667,16 102.667,49.3333 153.333,84 225.333,122.667 278.667,142.667"/>
+  </object>
+  <object id="238" x="280" y="496">
+   <polyline points="0,0 90.6667,32 206.667,57.3333 304,68 366.667,78.6667 441.333,108"/>
+  </object>
+  <object id="239" x="722.667" y="604">
+   <polyline points="0,0 96,53.3333 173.333,113.333 238.667,149.333 390.667,200 484,228 610.667,245.333 781.333,256"/>
+  </object>
+  <object id="240" x="1506.67" y="861.333">
+   <polyline points="0,0 126.667,4 264,-10.6667 341.333,-29.3333 508,-82.6667 693.333,-157.333 862.667,-230.667 945.333,-278.667"/>
+  </object>
+  <object id="241" x="2453.33" y="584">
+   <polyline points="0,0 58.6667,-48 112,-102.667 156,-162.667 193.333,-201.333 252,-238.667 317.333,-268"/>
+  </object>
+  <object id="242" x="2770.67" y="318.667">
+   <polyline points="0,0 70.6667,-18.6667 116,-24 168,-21.3333 233.333,-16 330.667,0 405.333,21.3333"/>
+  </object>
+  <object id="243" x="3174.67" y="336">
+   <polyline points="0,0 624,372 700,404 805.333,416 892,414.667 994.667,397.333 1084,368 1184,317.333"/>
+  </object>
+  <object id="244" x="4361.33" y="654.667">
+   <polyline points="0,0 100,-52 185.333,-82.6667 317.333,-106.667 386.667,-114.667 413.333,-114.667"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits"/>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles"/>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat"/>
+ <objectgroup name="dog"/>
+ <objectgroup name="bee"/>
+</map>

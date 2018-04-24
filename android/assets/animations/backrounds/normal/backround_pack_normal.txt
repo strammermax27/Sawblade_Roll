@@ -1,0 +1,33 @@
+backround_pack_normal.png
+size: 1763, 922
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clouds
+  rotate: false
+  xy: 0, 883
+  size: 1203, 39
+  orig: 1203, 39
+  offset: 0, 0
+  index: -1
+hills_b
+  rotate: false
+  xy: 800, 0
+  size: 963, 483
+  orig: 963, 483
+  offset: 0, 0
+  index: -1
+hills_f
+  rotate: false
+  xy: 0, 600
+  size: 1026, 283
+  orig: 1026, 283
+  offset: 0, 0
+  index: -1
+skyImage
+  rotate: false
+  xy: 0, 0
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1

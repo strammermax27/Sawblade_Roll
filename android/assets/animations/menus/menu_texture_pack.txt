@@ -1,0 +1,166 @@
+menu_texture_pack.png
+size: 1014, 252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_button
+  rotate: false
+  xy: 0, 0
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+backround
+  rotate: false
+  xy: 51, 0
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+chair
+  rotate: false
+  xy: 56, 0
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: 1
+chair
+  rotate: false
+  xy: 225, 0
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: 2
+choose_button
+  rotate: false
+  xy: 394, 0
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1
+choose_gun_button
+  rotate: false
+  xy: 463, 0
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+choose_wheelchair_button
+  rotate: false
+  xy: 541, 0
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+flame_thrower
+  rotate: false
+  xy: 617, 0
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: -1
+mashine_gun
+  rotate: false
+  xy: 786, 0
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: -1
+next_button
+  rotate: false
+  xy: 955, 0
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+normal_gun
+  rotate: false
+  xy: 0, 84
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: -1
+settings_button
+  rotate: false
+  xy: 169, 84
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shot_gun
+  rotate: false
+  xy: 199, 84
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: -1
+sniper_rifle
+  rotate: false
+  xy: 368, 84
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: -1
+upgrade_button
+  rotate: false
+  xy: 537, 84
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 557, 84
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: 1
+weapon
+  rotate: false
+  xy: 726, 84
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: 2
+weapon_selection_frame
+  rotate: false
+  xy: 0, 168
+  size: 169, 61
+  orig: 169, 61
+  offset: 0, 0
+  index: -1
+world1
+  rotate: false
+  xy: 169, 168
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: -1
+world2
+  rotate: false
+  xy: 338, 168
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: -1
+world
+  rotate: false
+  xy: 507, 168
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: 1
+world
+  rotate: false
+  xy: 676, 168
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: 2
+world_selection_window
+  rotate: false
+  xy: 845, 168
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: -1

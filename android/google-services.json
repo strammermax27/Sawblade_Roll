@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257810297766",
+    "firebase_url": "https://chainsawrun-ba5d1.firebaseio.com",
+    "project_id": "chainsawrun-ba5d1",
+    "storage_bucket": "chainsawrun-ba5d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257810297766:android:012b35e8390444ab",
+        "android_client_info": {
+          "package_name": "com.dani.game2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257810297766-23ghh58sklh71nai8ud4pjs2sl56sfta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dani.game2",
+            "certificate_hash": "3e28195f7e3c71a1b7f5512bd120b0182da3eeeb"
+          }
+        },
+        {
+          "client_id": "257810297766-evsrsoo0jtsro10bpb5q2gvod0aing3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBSvkgVpEaho89_-AZKtg9wVGy2P5M96k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257810297766-evsrsoo0jtsro10bpb5q2gvod0aing3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

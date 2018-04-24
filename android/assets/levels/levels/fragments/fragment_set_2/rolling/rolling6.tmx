@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="70" tilewidth="25" tileheight="25" nextobjectid="289">
+ <layer name="Tile Layer 1" width="200" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1rCKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4A9rAAAE=
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="200" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1rCKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4A9rAAAE=
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="282" x="1049.67" y="1137.21">
+   <polyline points="0,0 78.92,37.879 177.57,65.4271 271.287,82.6449 414.33,86.0883"/>
+  </object>
+  <object id="283" x="319.727" y="477.769">
+   <polyline points="-367.727,22.231 -273.763,32.5616 -148.478,68.7187 50.3369,143.868 220.201,240.439 445.803,377.067 618.596,557.853 728.22,661.16"/>
+  </object>
+  <object id="285" x="1462.11" y="1139.6">
+   <polyline points="364.554,0 295.116,37.879 208.317,65.4271 125.858,82.6449 1.26031,85.0883"/>
+  </object>
+  <object id="288" x="1828.21" y="1137.82">
+   <polyline points="0,0 346.12,-285 561.439,-422 945.793,-609 1070.56,-638 1177.21,-649 1271.79,-652"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits"/>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles"/>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat"/>
+ <objectgroup name="dog"/>
+ <objectgroup name="bee"/>
+</map>

@@ -1,0 +1,363 @@
+slowBlod
+- Delay -
+active: true
+lowMin: 34.0
+lowMax: 34.0
+- Duration - 
+lowMin: 300.0
+lowMax: 300.0
+- Count - 
+min: 3500
+max: 7524
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 540.0
+highMax: 878.0
+relative: true
+scalingCount: 4
+scaling0: 1.0
+scaling1: 1.0
+scaling2: 1.0
+scaling3: 1.0
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.20547946
+timeline2: 0.8082192
+timeline3: 1.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 500.0
+highMax: 1000.0
+relative: false
+scalingCount: 6
+scaling0: 1.0
+scaling1: 0.7755102
+scaling2: 0.97959185
+scaling3: 0.59183675
+scaling4: 1.0
+scaling5: 1.0
+timelineCount: 6
+timeline0: 0.0
+timeline1: 0.15068494
+timeline2: 0.30821916
+timeline3: 0.44520548
+timeline4: 0.6849315
+timeline5: 0.93835616
+- Life Offset - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 32.0
+highMax: 32.0
+relative: false
+scalingCount: 5
+scaling0: 0.71428573
+scaling1: 0.3265306
+scaling2: 0.20408164
+scaling3: 0.040816326
+scaling4: 0.0
+timelineCount: 5
+timeline0: 0.0
+timeline1: 0.24657534
+timeline2: 0.47260273
+timeline3: 0.60958904
+timeline4: 0.9931507
+- Velocity - 
+active: true
+lowMin: 1.0
+lowMax: 1.0
+highMin: 424.0
+highMax: 424.0
+relative: false
+scalingCount: 5
+scaling0: 1.0
+scaling1: 0.71428573
+scaling2: 0.40816328
+scaling3: 0.14285715
+scaling4: 0.0
+timelineCount: 5
+timeline0: 0.0
+timeline1: 0.36301368
+timeline2: 0.82191783
+timeline3: 0.98630136
+timeline4: 1.0
+- Angle - 
+active: true
+lowMin: 30.0
+lowMax: 0.0
+highMin: 90.0
+highMax: 87.0
+relative: false
+scalingCount: 3
+scaling0: 0.0
+scaling1: 0.0
+scaling2: 1.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.9315069
+timeline2: 1.0
+- Rotation - 
+active: false
+- Wind - 
+active: false
+- Gravity - 
+active: true
+lowMin: 65.0
+lowMax: 65.0
+highMin: -632.0
+highMax: -632.0
+relative: false
+scalingCount: 3
+scaling0: 0.24489796
+scaling1: 0.36734694
+scaling2: 0.5102041
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.34246576
+timeline2: 0.79452056
+- Tint - 
+colorsCount: 9
+colors0: 0.7529412
+colors1: 0.0
+colors2: 0.0
+colors3: 0.7372549
+colors4: 0.0
+colors5: 0.0
+colors6: 1.0
+colors7: 0.0
+colors8: 0.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.44370124
+timeline2: 1.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 4
+scaling0: 1.0
+scaling1: 1.0
+scaling2: 0.80701756
+scaling3: 0.0
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.001
+timeline2: 0.5273973
+timeline3: 0.94520545
+- Options - 
+attached: false
+continuous: false
+aligned: false
+additive: false
+behind: false
+premultipliedAlpha: true
+- Image Path -
+/home/daniel/Documents/test_android_coonfig/android/assets/particles/pre_particle.png
+
+
+sprencleBlood
+- Delay -
+active: false
+- Duration - 
+lowMin: 122.0
+lowMax: 122.0
+- Count - 
+min: 0
+max: 1400
+- Emission - 
+lowMin: 1.0
+lowMax: 1.0
+highMin: 7980.0
+highMax: 7980.0
+relative: false
+scalingCount: 2
+scaling0: 0.10204082
+scaling1: 0.67346936
+timelineCount: 2
+timeline0: 0.0
+timeline1: 0.20547946
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 500.0
+highMax: 500.0
+relative: false
+scalingCount: 3
+scaling0: 1.0
+scaling1: 0.8367347
+scaling2: 0.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.7123288
+timeline2: 0.9726027
+- Life Offset - 
+active: false
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: line
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 10.0
+highMax: 10.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: -20.0
+highMax: -20.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 32.0
+highMax: 32.0
+relative: false
+scalingCount: 2
+scaling0: 0.7346939
+scaling1: 0.3469388
+timelineCount: 2
+timeline0: 0.0
+timeline1: 0.21232876
+- Velocity - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 732.0
+highMax: 1000.0
+relative: false
+scalingCount: 3
+scaling0: 1.0
+scaling1: 1.0
+scaling2: 1.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.889411
+timeline2: 1.0
+- Angle - 
+active: true
+lowMin: -90.0
+lowMax: -90.0
+highMin: 80.0
+highMax: 74.0
+relative: false
+scalingCount: 3
+scaling0: 1.0
+scaling1: 1.0
+scaling2: 1.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.56164384
+timeline2: 0.98630136
+- Rotation - 
+active: false
+- Wind - 
+active: false
+- Gravity - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: -450.0
+highMax: -450.0
+relative: false
+scalingCount: 3
+scaling0: 1.0
+scaling1: 1.0
+scaling2: 1.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.45890412
+timeline2: 0.8835617
+- Tint - 
+colorsCount: 15
+colors0: 0.60784316
+colors1: 0.02745098
+colors2: 0.02745098
+colors3: 0.09019608
+colors4: 0.003921569
+colors5: 0.003921569
+colors6: 0.8901961
+colors7: 0.039215688
+colors8: 0.039215688
+colors9: 0.8901961
+colors10: 0.039215688
+colors11: 0.039215688
+colors12: 0.8901961
+colors13: 0.039215688
+colors14: 0.039215688
+timelineCount: 5
+timeline0: 0.0
+timeline1: 0.32664436
+timeline2: 0.877369
+timeline3: 0.99
+timeline4: 1.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Options - 
+attached: false
+continuous: false
+aligned: false
+additive: false
+behind: false
+premultipliedAlpha: true
+- Image Path -
+/home/daniel/Documents/test_android_coonfig/android/assets/particles/pre_particle.png

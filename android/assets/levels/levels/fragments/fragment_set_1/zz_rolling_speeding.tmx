@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="25" tileheight="25" nextobjectid="243">
+ <layer name="Tile Layer 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="241" x="602" y="983">
+   <polyline points="0,0 -26,-75 -81,-188 -194,-407 -216,-436"/>
+  </object>
+  <object id="242" x="386" y="548">
+   <polyline points="0,0 -33,-24 -61,-34 -115,-45 -190,-49 -387,-49"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits"/>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles">
+  <object id="240" x="83.6061" y="5.93939">
+   <polyline points="0,0 63,39 -2,71 62,84 15,121"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat"/>
+ <objectgroup name="dog"/>
+ <objectgroup name="bee"/>
+</map>

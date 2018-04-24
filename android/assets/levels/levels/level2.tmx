@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="20" tilewidth="25" tileheight="25" backgroundcolor="#43ddff">
+ <tileset firstgid="1" name="tileset1" tilewidth="25" tileheight="25">
+  <tileoffset x="1" y="1"/>
+  <image source="../tilesets/tileset1.png" trans="55ff00" width="744" height="1052"/>
+ </tileset>
+ <layer name="Tile Layer 2" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0qENACAMAMGKztC92IOwv8QwAzThxPkXXxlRAAAA8KFxvO6AjlaDBrhtpvcBAAAAAAAAAAAANpM2l8w=
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmm1uwjAMhvnRK8CO1Y1zMHYOBodeI2HN8hwncZwPOkd6JCgqSWy/ieP2uBwOR8eZDGjh82kgo+3gOD1wfTgOj+8fdqwbH0/OE4xnj2Abc7wLtl8Tv3O4Puy4bHxuXDe+JhjP3ggNbCwRbA8aWNHni8I3rfQBWq3F12IH4gliAc7eHN9PcPwEPeSu6XiPaXk+xzq/VjLbWux51Bh7B1vnxELQB467x5Kf7+A95hXqV7hWJ9muZ7x6HtUXsDdn69ha9YbQxvFp+ZsHSWcfSg/bpPSBY9XjdX/gvSPlf2vfn5a8806MHvZJ6cPZN9LeEaDNsu+gj9vye6bhoA3/Rv8P1wpmRFPf6zGmmcYzk29Se0fLccBYLPURtD5rfoPn3So3jOXC0nlequfjvHfvGuL2CXqth15ovsbpA3QQa/DbaJuWxC3EWQ8f01xYypFz81t6H8xpdA0tt47PjTF1L52b5vlFyRygL3x2l/YPSR/c/lFiy14+1WjjXuDjUVieS1NxKs1bq++ce3vVW6jucvVBdUKvj/Rpqd9L7rtHmCl3BL+FcT0q/ysVp9K8wzhSuURsjDdDH58j30uuAa31Easp4L60e3JrbUgaqY1DizgotRt3n2TXmO9a6MMCuvZzOVjutZn0YfHcXDr3wpqo2ediGmmtD6mWdTHqg7NrSdPo49Ww0kfpup/TFyYVj7F8bSV91diqtT5wbEn1P4tcBOZD56HRBR7Xf9RHqsE7LiVnKq0+Uu80c0BfFvHUSx+3SB+WdQ1pHqX6sHoHdUYgJ6nRB4dkf60+NM/4rfQBMdXaF7HnHi19X2sXjV+uintaw41Jev6Rq48fgdeSJA==
+  </data>
+ </layer>
+ <objectgroup name="static_objects" width="200" height="20">
+  <object x="0" y="425">
+   <polyline points="0,0 150,0 150,75"/>
+  </object>
+  <object x="125" y="300">
+   <polyline points="0,0 -25,0 -25,-50 0,-50 0,0"/>
+  </object>
+  <object x="175" y="125">
+   <polyline points="0,0 0,50 475,50 475,0 0,0"/>
+  </object>
+  <object x="300" y="500">
+   <polyline points="0,0 0,-175 75,-175 75,-125 300,-125 300,0"/>
+  </object>
+  <object x="650" y="500">
+   <polyline points="0,0 0,-50 300,-50 300,-75 325,-75 325,-125 350,-125 350,-150 375,-150 375,-175 400,-175 400,-200 425,-200 425,-225 450,-225 450,-250 500,-250 500,-225"/>
+  </object>
+  <object x="825" y="225">
+   <polyline points="0,0 100,0 100,-50 0,-50 0,0"/>
+  </object>
+  <object x="1400" y="325">
+   <polyline points="0,0 100,0 100,150 850,150 850,125 875,125 875,50 1150,50 1150,75 900,75 900,125 925,125 925,150 1325,150 1325,75 1225,75 1225,50 1350,50 1350,150 1375,150 1375,175"/>
+  </object>
+  <object x="1550" y="150" width="75" height="50"/>
+  <object x="1700" y="75" width="75" height="50"/>
+  <object x="1700" y="275" width="75" height="50"/>
+  <object x="1850" y="275" width="75" height="50"/>
+  <object x="2850" y="325" width="200" height="50"/>
+  <object x="3950" y="75">
+   <polyline points="0,0 200,0 200,25 225,25 225,50 275,50 275,25 300,25 300,100 200,100 200,75 175,75 175,50 -25,50"/>
+  </object>
+  <object x="3825" y="350">
+   <polyline points="0,0 0,-50 -225,-50 -225,25 -200,25 -200,0 0,0"/>
+  </object>
+  <object x="4025" y="175" width="75" height="50"/>
+  <object x="3900" y="275" width="50" height="50"/>
+  <object x="4025" y="350" width="50" height="50"/>
+  <object x="4125" y="350" width="50" height="50"/>
+  <object x="4250" y="350" width="50" height="50"/>
+  <object x="4375" y="350" width="50" height="50"/>
+  <object x="4450" y="300" width="50" height="50"/>
+  <object x="4525" y="125" width="50" height="50"/>
+  <object x="4525" y="250" width="75" height="50"/>
+  <object x="4625" y="500">
+   <polyline points="0,0 0,-325 375,-325"/>
+  </object>
+  <object x="4600" y="500">
+   <polyline points="0,0 0,-50 -1350,-50 -1350,-150 -1150,-150 -1150,-100 -1125,-100 -1125,-200 -1375,-200 -1375,-50 -1400,-50 -1400,0"/>
+  </object>
+  <object x="2025" y="325">
+   <polyline points="0,0 0,-50 250,-50 250,0 0,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits" width="200" height="20">
+  <object x="1900" y="425" width="25" height="25"/>
+  <object x="1850" y="425" width="25" height="25"/>
+  <object x="2100" y="225" width="25" height="25"/>
+  <object x="2150" y="225" width="25" height="25"/>
+  <object x="2150" y="450" width="25" height="25"/>
+  <object x="2475" y="450"/>
+  <object x="2700" y="450"/>
+  <object x="2625" y="450"/>
+  <object x="2575" y="450"/>
+  <object x="2525" y="425"/>
+  <object x="2525" y="450"/>
+  <object x="2425" y="425"/>
+  <object x="2375" y="425"/>
+  <object x="2350" y="450"/>
+  <object x="2325" y="425"/>
+  <object x="2650" y="425"/>
+  <object x="3300" y="250" width="25" height="25"/>
+  <object x="3350" y="250" width="25" height="25"/>
+  <object x="3975" y="25" width="25" height="25"/>
+  <object x="4025" y="25" width="25" height="25"/>
+  <object x="4075" y="25" width="25" height="25"/>
+  <object x="375" y="75" width="25" height="25"/>
+  <object x="450" y="75" width="25" height="25"/>
+  <object x="525" y="75" width="25" height="25"/>
+ </objectgroup>
+ <objectgroup name="SawBlades" width="200" height="20">
+  <object x="650" y="175" width="150" height="150">
+   <ellipse/>
+  </object>
+  <object x="1015" y="267" width="450" height="450">
+   <ellipse/>
+  </object>
+  <object x="1600" y="325" width="75" height="75">
+   <ellipse/>
+  </object>
+  <object x="1700" y="325" width="75" height="75">
+   <ellipse/>
+  </object>
+  <object x="1800" y="325" width="75" height="75">
+   <ellipse/>
+  </object>
+  <object x="1900" y="325" width="75" height="75">
+   <ellipse/>
+  </object>
+  <object x="3625" y="325" width="50" height="50">
+   <ellipse/>
+  </object>
+  <object x="4025" y="425" width="25" height="25">
+   <ellipse/>
+  </object>
+  <object x="4125" y="425" width="25" height="25">
+   <ellipse/>
+  </object>
+  <object x="3725" y="425" width="25" height="25">
+   <ellipse/>
+  </object>
+  <object x="4200" y="400" width="50" height="50">
+   <ellipse/>
+  </object>
+  <object x="4300" y="375" width="75" height="75">
+   <ellipse/>
+  </object>
+  <object x="4425" y="325" width="125" height="125">
+   <ellipse/>
+  </object>
+  <object x="4400" y="75" width="75" height="75">
+   <ellipse/>
+  </object>
+  <object x="2750" y="150" width="75" height="75">
+   <ellipse/>
+  </object>
+  <object x="3075" y="300" width="150" height="150">
+   <ellipse/>
+  </object>
+  <object x="3100" y="-50" width="175" height="175">
+   <ellipse/>
+  </object>
+  <object x="2750" y="300" width="75" height="75">
+   <ellipse/>
+  </object>
+  <object x="3875" y="425" width="25" height="25">
+   <ellipse/>
+  </object>
+  <object x="2650" y="425" width="100" height="100">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="money" width="200" height="20">
+  <object x="4050" y="150" width="25" height="25"/>
+  <object x="4125" y="75" height="25"/>
+ </objectgroup>
+ <objectgroup name="rabbit-obstacles" width="200" height="20">
+  <object x="800" y="400" width="75" height="50"/>
+  <object x="2100" y="400" width="25" height="75"/>
+  <object x="2375" y="300" width="75" height="75"/>
+  <object x="3675" y="250" width="50" height="50"/>
+  <object x="3800" y="250" width="50" height="50"/>
+  <object x="3825" y="200" width="50" height="50"/>
+  <object x="3850" y="150" width="50" height="50"/>
+  <object x="3875" y="125" width="50" height="50"/>
+  <object x="3925" y="75" width="25" height="50"/>
+  <object x="2025" y="250" width="25" height="25"/>
+  <object x="4300" y="75" width="50" height="50"/>
+  <object x="2300" y="400" height="50"/>
+  <object x="2725" y="400" height="75"/>
+ </objectgroup>
+</map>

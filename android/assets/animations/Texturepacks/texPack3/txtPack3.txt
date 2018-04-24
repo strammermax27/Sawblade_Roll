@@ -1,0 +1,355 @@
+txtPack3.png
+size: 1974, 1418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gdog_small_screen.0000
+  rotate: false
+  xy: 0, 0
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0001
+  rotate: false
+  xy: 213, 0
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0002
+  rotate: false
+  xy: 426, 0
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0003
+  rotate: false
+  xy: 639, 0
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0004
+  rotate: false
+  xy: 852, 0
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0005
+  rotate: false
+  xy: 1065, 0
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0006
+  rotate: false
+  xy: 1278, 0
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0007
+  rotate: false
+  xy: 1491, 0
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0008
+  rotate: false
+  xy: 1704, 0
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0009
+  rotate: false
+  xy: 0, 186
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0010
+  rotate: false
+  xy: 213, 186
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0011
+  rotate: false
+  xy: 426, 186
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0012
+  rotate: false
+  xy: 639, 186
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0013
+  rotate: false
+  xy: 852, 186
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0014
+  rotate: false
+  xy: 1065, 186
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0015
+  rotate: false
+  xy: 1278, 186
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0016
+  rotate: false
+  xy: 1491, 186
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0017
+  rotate: false
+  xy: 1704, 186
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0018
+  rotate: false
+  xy: 0, 372
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Gdog_small_screen.0019
+  rotate: false
+  xy: 213, 372
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0000
+  rotate: false
+  xy: 426, 372
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0001
+  rotate: false
+  xy: 755, 372
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0002
+  rotate: false
+  xy: 1084, 372
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0003
+  rotate: false
+  xy: 1413, 372
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0004
+  rotate: false
+  xy: 0, 558
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0005
+  rotate: false
+  xy: 329, 558
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0006
+  rotate: false
+  xy: 658, 558
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0007
+  rotate: false
+  xy: 987, 558
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0008
+  rotate: false
+  xy: 1316, 558
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0009
+  rotate: false
+  xy: 1645, 558
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0010
+  rotate: false
+  xy: 0, 730
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0011
+  rotate: false
+  xy: 329, 730
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0012
+  rotate: false
+  xy: 658, 730
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0013
+  rotate: false
+  xy: 987, 730
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0014
+  rotate: false
+  xy: 1316, 730
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0015
+  rotate: false
+  xy: 1645, 730
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0016
+  rotate: false
+  xy: 0, 902
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0017
+  rotate: false
+  xy: 329, 902
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0018
+  rotate: false
+  xy: 658, 902
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0019
+  rotate: false
+  xy: 987, 902
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0020
+  rotate: false
+  xy: 1316, 902
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0021
+  rotate: false
+  xy: 1645, 902
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0022
+  rotate: false
+  xy: 0, 1074
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0023
+  rotate: false
+  xy: 329, 1074
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0024
+  rotate: false
+  xy: 658, 1074
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0025
+  rotate: false
+  xy: 987, 1074
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0026
+  rotate: false
+  xy: 1316, 1074
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0027
+  rotate: false
+  xy: 1645, 1074
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0028
+  rotate: false
+  xy: 0, 1246
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1
+running_BDog_LowQuality.0029
+  rotate: false
+  xy: 329, 1246
+  size: 329, 172
+  orig: 329, 172
+  offset: 0, 0
+  index: -1

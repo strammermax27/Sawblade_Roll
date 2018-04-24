@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="20" tilewidth="25" tileheight="25" nextobjectid="97">
+ <tileset firstgid="1" name="tileset1" tilewidth="25" tileheight="25" tilecount="1218">
+  <tileoffset x="1" y="1"/>
+  <image source="../tilesets/tileset1.png" trans="55ff00" width="744" height="1052"/>
+ </tileset>
+ <layer name="Backround" width="200" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMA6Dx/omWbkGuYC+pqqqqqqqqqqqqqqqqqqqq7w/3gHom
+  </data>
+ </layer>
+ <layer name="Animations" width="200" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztmm3KwkAMhEU84Auew4voMd6Lij8K67IJ2XxXZmCghdomzTyulV4uEARBEARJ9X+truBbfzeZIShDXfigOPjU9/G4D16gLB3566SjJqlnlihDkEadsrPLxsyIhBOw8zvamR91rDZzWdmx1jdz4nk+sNNf0hmuZto1H94ZnteRqPODnX6yzi8iA5KMrI7JyG82I+CkVplzWzHlUUd2brP5ACe1ymIjMq/azD4Vn6tYQ8BIf3Xjw/q/kpWPTEbuw7WgnrJ8l3XjwsLHWEMWG5S7vQug6e/MGuu39OnNhVc2rXxEMTJzQHES/c6MZL7WXjtptzZpbyuOrOeOYuLgYvYuH2N9UWxQvIxsUGtLBsce7iQu35beju2d7zKOgyguKDa0fMzbnnxQbHD3ZcVWd3eSBx87WV4pg4FsPqx9cM8Yq/WgOtOelv5GrDaVm6chyxpmz+DxPmjvjZSJ+RrVvXv7cTuHOT52WVjtc7xUz0jLB7eOcFnWPGtX9xxlLndn8IuYzY6qZ5DBiYer+6nwG3zCPno=
+  </data>
+ </layer>
+ <objectgroup name="StaticObjects">
+  <object id="83" x="3" y="503">
+   <polyline points="0,0 39,-81 1260,-78 1248,30"/>
+  </object>
+  <object id="87" x="1238" y="508">
+   <polyline points="-37,22 -7,-79 170,-102 246,-118 374,-152 494,-122 506,27"/>
+  </object>
+  <object id="88" x="1695" y="529">
+   <polyline points="0,0 24,-146 140,-118 307,-140 431,-216 482,-10"/>
+  </object>
+  <object id="89" x="2062" y="522">
+   <polyline points="0,0 -3,-165 167,-298 252,-405 332,9"/>
+  </object>
+  <object id="90" x="2424" y="529">
+   <polyline points="0,0 63,-454 122,-461 201,-446 330,-415 497,-341 537,-3"/>
+  </object>
+  <object id="92" x="2797" y="506">
+   <polyline points="0,0 80,-337 142,-310 214,-241 282,-118 352,-87 405,-59 429,13"/>
+  </object>
+  <object id="93" x="3132" y="512">
+   <polyline points="0,0 69,-66 159,-44 304,-29 422,-62 473,17"/>
+  </object>
+  <object id="95" x="3478" y="527">
+   <polyline points="0,0 101,-100 153,-166 248,-212 407,-246 552,-253 670,-4"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits">
+  <object id="69" x="1163" y="410"/>
+  <object id="70" x="1184" y="411"/>
+  <object id="71" x="1200" y="411"/>
+  <object id="72" x="1214" y="411"/>
+  <object id="73" x="1931" y="371"/>
+  <object id="74" x="1956" y="367"/>
+  <object id="75" x="1937" y="376"/>
+  <object id="76" x="1946" y="364"/>
+  <object id="77" x="3433" y="440"/>
+  <object id="78" x="3442" y="451"/>
+  <object id="80" x="3415" y="452"/>
+  <object id="81" x="3412" y="442"/>
+ </objectgroup>
+ <objectgroup name="Sawblades">
+  <object id="43" x="1228" y="132" width="143" height="143">
+   <ellipse/>
+  </object>
+  <object id="44" x="1418" y="107" width="138" height="138">
+   <ellipse/>
+  </object>
+  <object id="45" x="1674" y="131" width="115" height="115">
+   <ellipse/>
+  </object>
+  <object id="46" x="1585" y="130" width="74" height="74">
+   <ellipse/>
+  </object>
+  <object id="55" x="2282" y="125" width="145" height="145">
+   <ellipse/>
+  </object>
+  <object id="57" x="2429.5" y="90.5" width="145" height="145">
+   <ellipse/>
+  </object>
+  <object id="64" x="3118" y="-112" width="346" height="346">
+   <ellipse/>
+  </object>
+  <object id="65" x="3199" y="-62" width="322" height="294">
+   <ellipse/>
+  </object>
+  <object id="66" x="3072" y="-103" width="289" height="263.649">
+   <ellipse/>
+  </object>
+  <object id="67" x="3260" y="133">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Money"/>
+ <objectgroup name="rabbit-obstacles"/>
+ <objectgroup name="experimental"/>
+ <objectgroup name="testrabbit"/>
+</map>

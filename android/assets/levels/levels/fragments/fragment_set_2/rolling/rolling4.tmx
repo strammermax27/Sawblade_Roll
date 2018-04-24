@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="230" height="60" tilewidth="25" tileheight="25" nextobjectid="289">
+ <layer name="Tile Layer 1" width="230" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8GjXoAAB
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="230" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8GjXoAAB
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="244" x="48" y="49.7778">
+   <polyline points="0,0 195.506,11.0503 456.182,49.7265 667.979,121.554 912.357,248.632 1091.57,403.337 1320.41,569.444 1515.17,707.221"/>
+  </object>
+  <object id="245" x="1565.01" y="755.157">
+   <polyline points="0,0 58.935,40.518 132.604,69.9854 202.589,88.4026 309.408,92.086"/>
+  </object>
+  <object id="250" x="1867.06" y="756.998">
+   <polyline points="309.408,0 250.475,40.518 176.805,69.9854 106.82,88.4026 0,92.086"/>
+  </object>
+  <object id="252" x="2178.31" y="666.754">
+   <polyline points="0,92.086 58.935,51.568 132.604,22.1006 202.589,3.68336 309.408,0"/>
+  </object>
+  <object id="253" x="2480.35" y="668.595">
+   <polyline points="309.408,92.086 250.475,51.568 176.805,22.1006 106.82,3.68336 0,0"/>
+  </object>
+  <object id="254" x="2797.13" y="782.782">
+   <polyline points="0,0 58.935,40.518 132.604,69.9854 202.589,88.4026 309.408,92.086"/>
+  </object>
+  <object id="255" x="3099.17" y="784.625">
+   <polyline points="309.408,0 250.475,40.518 176.805,69.9854 106.82,88.4026 0,92.086"/>
+  </object>
+  <object id="256" x="3404.9" y="699.906">
+   <polyline points="0,92.086 58.935,51.568 132.604,22.1006 202.589,3.68336 309.408,0"/>
+  </object>
+  <object id="257" x="3706.94" y="701.747">
+   <polyline points="309.408,92.086 250.475,51.568 176.805,22.1006 106.82,3.68336 0,0"/>
+  </object>
+  <object id="258" x="4018.08" y="804.884">
+   <polyline points="0,0 58.935,40.518 132.604,69.9854 202.589,88.4026 309.408,92.086"/>
+  </object>
+  <object id="259" x="4334.2" y="804.611">
+   <polyline points="309.408,0 250.475,40.518 176.805,69.9854 106.82,88.4026 0,92.086"/>
+  </object>
+  <object id="260" x="4654.37" y="799.142">
+   <polyline points="0,0 67.6474,-93.0151 126.839,-259.316 197.305,-428.434 284.683,-546.817 380.516,-620.1 467.894,-651.106 560.909,-662.38"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits"/>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles"/>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat"/>
+ <objectgroup name="dog">
+  <object id="267" x="3181.82" y="809.091">
+   <properties>
+    <property name="firstSpawn" value="6"/>
+    <property name="multiplicator" value="2"/>
+    <property name="normalCount" value="5"/>
+   </properties>
+  </object>
+  <object id="268" x="3721.21" y="675.758">
+   <properties>
+    <property name="firstSpawn" value="6"/>
+    <property name="multiplicator" value="2"/>
+    <property name="normalCount" value="5"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="bee">
+  <object id="269" x="3093.94" y="409.091">
+   <properties>
+    <property name="firstSpawn" value="6"/>
+    <property name="multiplicator" value="2"/>
+    <property name="normalCount" value="5"/>
+   </properties>
+  </object>
+  <object id="270" x="3104.48" y="419.515" width="23.7652" height="22.7348">
+   <properties>
+    <property name="firstSpawn" value="6"/>
+    <property name="multiplicator" value="2"/>
+    <property name="normalCount" value="5"/>
+   </properties>
+  </object>
+  <object id="271" x="3104.17" y="373.098" width="25.3258" height="26.1515">
+   <properties>
+    <property name="firstSpawn" value="6"/>
+    <property name="multiplicator" value="2"/>
+    <property name="normalCount" value="5"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

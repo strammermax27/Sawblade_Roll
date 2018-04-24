@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="82" tilewidth="25" tileheight="25" nextobjectid="271">
+ <layer name="Tile Layer 1" width="200" height="82">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgNwBPAAE=
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="200" height="82">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgNwBPAAE=
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="258" x="1" y="1326">
+   <polyline points="0,0 24,0 149,-20 277,-72 395,-134 487,-198 569,-242 707,-278 771,-286"/>
+  </object>
+  <object id="259" x="775" y="1040">
+   <polyline points="0,0 102,-1 229,14 406,67 540.152,138.788 609,194 679,256"/>
+  </object>
+  <object id="260" x="1450" y="1294">
+   <polyline points="0,0 47.3333,69.3333 128,186 187.697,250.606 247.818,307.091 312.545,350.606"/>
+  </object>
+  <object id="261" x="1762.67" y="1644">
+   <polyline points="0,0 70.6667,48 132,66.6667 226.667,82.6667 378.667,82.6667 1329.33,80"/>
+  </object>
+  <object id="270" x="3097" y="1724">
+   <polyline points="0,0 136.364,-9.09091 254.545,-36.3636 375.758,-84.8485 506.061,-187.879 612.121,-341.333 711.03,-506.182 839.03,-682.182 955.03,-806.182 1055.03,-834.182 1123.03,-838.182 1183.03,-834.182"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits"/>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles"/>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat"/>
+ <objectgroup name="dog">
+  <object id="268" x="2572" y="1646.67" width="30.6667" height="30.6667">
+   <properties>
+    <property name="firstSpawn" value="3"/>
+    <property name="multiplicator" value="2"/>
+    <property name="normalCount" value="3"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="bee">
+  <object id="263" x="2192" y="812" width="64" height="48">
+   <properties>
+    <property name="firstSpawn" value="1"/>
+    <property name="multiplicator" value="2"/>
+    <property name="normalCount" value="2"/>
+   </properties>
+  </object>
+  <object id="264" x="2888" y="1276" width="64" height="48">
+   <properties>
+    <property name="firstSpawn" value="2"/>
+    <property name="multiplicator" value="1.7"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

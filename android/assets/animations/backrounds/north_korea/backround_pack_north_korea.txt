@@ -1,0 +1,26 @@
+backround_pack_north_korea.png
+size: 1726, 1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+city_B
+  rotate: false
+  xy: 0, 0
+  size: 681, 324
+  orig: 681, 324
+  offset: 0, 0
+  index: -1
+city_F
+  rotate: false
+  xy: 681, 0
+  size: 1045, 384
+  orig: 1045, 384
+  offset: 0, 0
+  index: -1
+skyImage
+  rotate: false
+  xy: 0, 384
+  size: 1120, 618
+  orig: 1120, 618
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="20" tilewidth="25" tileheight="25">
+ <tileset firstgid="1" name="tileset1" tilewidth="25" tileheight="25">
+  <tileoffset x="1" y="1"/>
+  <image source="../tilesets/tileset1.png" trans="55ff00" width="744" height="1052"/>
+ </tileset>
+ <layer name="Backround" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMA6DBY6x/zwW5gr2kqqqqqqqqqqqqqqqqqqqqvj+D0dTQ
+  </data>
+ </layer>
+ <layer name="Animations" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmt0OgyAMhb3w/dQ9h27PIe6hx5KZNAQ32lEpeL7kxOzK2h/KCl0HAAAAAAAAAAAAAAAowdB33SjQ5HXrS1sPgC6zz/FFoLvXw3B9fKv76SPueoA1oU5Se0Asvqv/7QTavJ7GcmUg3zlG6nnXQp5cWV4TQJzUHmB9zf+XOch9WstUjjxrXxPAb1J7QOvxXYPcz8kV/AfahO4vnUJtvKm1PiTzF/zPaot9X+WY9TEw8qDW+pDMX1rfh1+FsG9szPqYGXlQa31I5i81fucOndFY74FattK6CPsGpz5WRh5w8+bMONWUE9rQGY1GD8zpay1bw/1UbBaVgmZ9aMep1LusQ2c0Gj0wp6+1bA3nVBb7h3acSr0rhuT+hSVxeoHU17E5yRSotB9SfVXahpyxlt4f4khyzmpJZ/b4ozNr6Xl1CV+VtiFnrKX3hziS3L+wpK0/zutcSO+pWJPkXN2Swr5/RlxeXpyELg==
+  </data>
+ </layer>
+ <objectgroup name="StaticObjects" width="200" height="20">
+  <object x="0" y="500">
+   <polygon points="0,0 1225,0 1225,-75 0,-75"/>
+  </object>
+  <object x="1000" y="275">
+   <polygon points="0,0 275,0 275,-75 0,-75"/>
+  </object>
+  <object x="1825" y="425">
+   <polyline points="0,0 675,0 675,-75 725,-75 725,-100 775,-100 775,-150 825,-150 825,-225 900,-225 900,-250 1450,-250 1450,0 2475,0 2475,75 0,75 0,0"/>
+  </object>
+  <object x="3225" y="425">
+   <polyline points="0,0 -500,0 -500,-150 -475,-150 -425,-175 0,-175 0,0"/>
+  </object>
+  <object x="125" y="425" width="50"/>
+  <object x="1375" y="150" width="375" height="75"/>
+  <object x="4375" y="275">
+   <polyline points="0,0 0,75 350,75 350,0 0,0"/>
+  </object>
+  <object x="4375" y="425">
+   <polyline points="0,0 0,75 625,75 625,0 0,0"/>
+  </object>
+  <object x="3800" y="125">
+   <polyline points="0,0 100,-100"/>
+  </object>
+  <object x="3900" y="25">
+   <polyline points="0,0 -25,-25 -125,-25"/>
+  </object>
+  <object x="3700" y="150">
+   <polyline points="0,0 -75,-150"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits" width="200" height="20">
+  <object x="1900" y="650" width="75"/>
+  <object x="1550" y="125" width="25" height="25"/>
+  <object x="2250" y="400" width="25" height="25"/>
+  <object x="2325" y="400" width="25" height="25"/>
+  <object x="3500" y="-100" width="25" height="25"/>
+  <object x="3550" y="-100" width="25" height="25"/>
+  <object x="3600" y="-100" width="25" height="25"/>
+  <object x="3725" y="100"/>
+  <object x="3750" y="75"/>
+  <object x="3700" y="50"/>
+  <object x="3775" y="25"/>
+  <object x="3025" y="400"/>
+  <object x="3000" y="400"/>
+  <object x="775" y="400"/>
+  <object x="725" y="400"/>
+  <object x="825" y="400"/>
+  <object x="4700" y="400"/>
+  <object x="2925" y="400"/>
+ </objectgroup>
+ <objectgroup name="Sawblades" width="200" height="20">
+  <object x="3750" y="100" width="225" height="225">
+   <properties>
+    <property name="left_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object x="3500" y="75" width="225" height="225">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object x="3075" y="300" width="125" height="125">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object x="1525" y="425" width="275" height="275">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object x="1250" y="425" width="275" height="250">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object x="3375" y="275" width="75" height="75">
+   <ellipse/>
+  </object>
+  <object x="2775" y="300" width="125" height="125">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Money" width="200" height="20">
+  <object x="1500" y="325" width="50" height="50"/>
+  <object x="4500" y="225" width="50" height="50"/>
+  <object x="2950" y="125" width="50" height="50"/>
+ </objectgroup>
+ <objectgroup name="rabbit-obstacles" width="200" height="20">
+  <object x="875" y="350" width="75" height="75"/>
+  <object x="1475" y="375" width="75" height="75"/>
+  <object x="1950" y="350" width="75" height="75"/>
+  <object x="2950" y="300" width="25" height="125"/>
+  <object x="3525" y="350" width="75" height="75"/>
+  <object x="4200" y="350" width="75" height="75"/>
+ </objectgroup>
+ <objectgroup name="experimental" width="200" height="20">
+  <object x="600" y="25">
+   <polyline points="0,0 100,75 125,0 0,0"/>
+  </object>
+  <object x="-25" y="500">
+   <polygon points="0,0 -25,0 -25,-75 0,-75"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="testrabbit" width="200" height="20"/>
+</map>

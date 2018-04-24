@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="2000" height="20" tilewidth="25" tileheight="25" nextobjectid="93">
+ <tileset firstgid="1" name="tileset1" tilewidth="25" tileheight="25" tilecount="1218">
+  <tileoffset x="1" y="1"/>
+  <image source="../tilesets/tileset1.png" trans="55ff00" width="744" height="1052"/>
+ </tileset>
+ <layer name="Backround" width="2000" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt2UEJADEAA8HCyah/nzVw/wQyA6ti73fOlfQbAAAAAAAAsCP9J6XmAAAAAAAAgB3pPyk1BwAAAAAAAOxI/0mpOQAAAAAAAGBH+k9KzQEAAAAAAAA70n9Sag4AAAAAAADYkf6TUnMAAAAAAADAjvSflJoDAAAAAAAAdqT/pNQcAAAAAAAAsCP9J6XmAAAAAAAAgB3pPyk1BwAAAAAAAOxI/0mpOQAAAAAAAGBH+k9KzQEAAAAAAAA70n9Sag4AAAAAAADYkf6TUnMAAAAAAADAjvSflJoDAAAAAAAAdqT/pNQcAAAAAAAAsCP9J6XmAAAAAAAAgB3pPyk1BwAAAAAAAOxI/0mpOQAAAAAAAGDHAyNT1NA=
+  </data>
+ </layer>
+ <layer name="Animations" width="2000" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt3Wtqg0AUgFEp2Z9N15HHOqLdRTfaSBMYBrXjM2M8By6BYpNRf36MFgUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5O/n42+mHPv8+9gBAAAAAAAAgBykNu625j21nefWz8tDUXwmzPExKcd2/Q8AAAAAAAAAeZnavt+tn5875hLMOfgcMtV9ag0dAAAAAAAAIEuvat859fPy0ba7po6mCj7HTK2fAwAAAAAAAGRp6/vGp2hr5882Pqeuhq6jAwAAAAAAAGzPHtp5tUA7b9iHDgAAAAAAAECO/ntme+p3fCUe29fPNXQAAAAAAACA7So32nzLR6/u6tlD+vnpftx1ZD+P36kOAAAAAAAAwLrGvse8DPZKN3Puab5zPed97neu97XzMfvPb/fjvif286596O/8znkAAAAAAACAHAxpsmXUy8OZ4/uHrnXKd5bBefTtO1+rn1dRP48bunYOAAAAAAAAsKy+LhvvMQ+7eUpfnnvP9NLtvK2bL93P647fjRt6OPo5AAAAAAAA8C7ammiOk/Jc86X6eVu7P0bz6uuTMltZZ9/6vw7992XuAQAAAAAAAPYjfvZ5rjO1n4eG7pk+taznEs3Y87qteA2nrDOHadZ/PfTfl7kHAAAAAAAA2I8hXTrHGft+8CFuGZznUtdqS9OsP3wm/Rr3BQAAAAAAANiPX0ia0vM=
+  </data>
+ </layer>
+ <objectgroup name="StaticObjects">
+  <object id="43" x="3" y="549">
+   <polyline points="8,-117 1028,-118"/>
+  </object>
+  <object id="45" x="944" y="547">
+   <polyline points="74,-112.333 251,-135 400,-234"/>
+  </object>
+  <object id="46" x="1773" y="525">
+   <polyline points="79,-83 626.333,-83.3333"/>
+  </object>
+  <object id="47" x="2340" y="541">
+   <polyline points="55,-98.6667 189,-148 265,-204 306,-273 379,-347"/>
+  </object>
+  <object id="48" x="2707" y="319">
+   <polyline points="11,-126 352.333,-134.333"/>
+  </object>
+  <object id="50" x="3463" y="459">
+   <polyline points="-3,0 642,-1"/>
+  </object>
+  <object id="52" x="4267" y="552">
+   <polyline points="38,-100 396,-102 725,-110"/>
+  </object>
+  <object id="55" x="3228" y="245.333">
+   <polyline points="-170.667,-60 32,-66.6667 72,93.3333 234.667,214.667"/>
+  </object>
+  <object id="63" x="4996" y="440">
+   <polyline points="0,0 192,-128 193.333,-6.66667 1145.33,-14.6667 1365.33,-40 1410.67,-42.6667"/>
+  </object>
+  <object id="75" x="9674.67" y="462.667">
+   <polyline points="0,0 429.333,2.66667 1029.33,-45.3333 1440,-134.667"/>
+  </object>
+  <object id="76" x="10898.7" y="590.667">
+   <polyline points="-221.333,-2.66667 860,-4 1198.67,-160 1228,6.66667"/>
+  </object>
+  <object id="78" x="7444" y="562.667">
+   <polyline points="5.33333,2.66667 -140,-13.3333 -384,-116 -641.333,-156 -768,-170.667 -1038.67,-165.333"/>
+  </object>
+  <object id="79" x="9041.33" y="-49.3333">
+   <polyline points="0,0 82.6667,673.333 300,706.667"/>
+  </object>
+  <object id="86" x="8110.67" y="217.333">
+   <polyline points="0,0 128,-137.333 273.333,-226.667 449.333,-276 930.667,-266.667"/>
+  </object>
+  <object id="87" x="7448" y="569.333">
+   <polyline points="-1.33333,-6.66667 240,-10.6667 405.333,-56 554.667,-166.667 657.333,-348"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits">
+  <object id="15" x="2250" y="400" width="25" height="25"/>
+  <object id="16" x="2325" y="400" width="25" height="25"/>
+  <object id="20" x="3725" y="100"/>
+  <object id="21" x="3750" y="75"/>
+  <object id="22" x="3700" y="50"/>
+  <object id="23" x="3775" y="25"/>
+  <object id="26" x="775" y="400"/>
+  <object id="27" x="725" y="400"/>
+  <object id="28" x="825" y="400"/>
+  <object id="29" x="4700" y="400"/>
+  <object id="58" x="5233.33" y="401.333"/>
+  <object id="59" x="5265.33" y="400"/>
+  <object id="80" x="9218.67" y="582.667"/>
+  <object id="81" x="9182.67" y="578.667"/>
+  <object id="82" x="9160" y="582.667"/>
+  <object id="83" x="9213.33" y="602.667"/>
+  <object id="84" x="9266.67" y="622.667"/>
+ </objectgroup>
+ <objectgroup name="Sawblades">
+  <object id="31" x="3803.67" y="15.6667" width="225" height="225">
+   <properties>
+    <property name="left_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="32" x="3576" y="62.6667" width="125" height="125">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="34" x="1525" y="425" width="275" height="275">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="35" x="1250" y="350" width="275" height="250">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="36" x="2775" y="300" width="125" height="125">
+   <ellipse/>
+  </object>
+  <object id="72" x="9128" y="57.3333" width="102.667" height="100">
+   <ellipse/>
+  </object>
+  <object id="73" x="9202.67" y="242.667" width="181.333" height="177.333">
+   <ellipse/>
+  </object>
+  <object id="74" x="9389.33" y="489.333" width="250.667" height="218.667">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="invisibles"/>
+ <objectgroup name="rabbit-obstacles"/>
+ <objectgroup name="bigGoat">
+  <object id="60" x="6085.33" y="338.667"/>
+ </objectgroup>
+ <objectgroup name="dog">
+  <object id="61" x="6018.67" y="369.333"/>
+  <object id="62" x="6034.67" y="398.667"/>
+  <object id="88" x="10925.3" y="504"/>
+  <object id="89" x="10926.7" y="541.333"/>
+  <object id="90" x="10932" y="570.667" width="2.66667"/>
+  <object id="91" x="10962.7" y="540"/>
+ </objectgroup>
+ <objectgroup name="bee">
+  <object id="64" x="3133.33" y="-84" width="17.3333" height="20"/>
+  <object id="65" x="6220" y="-58.6667" width="17.3333" height="14.6667"/>
+  <object id="66" x="6121.33" y="-46.6667" width="20" height="16"/>
+  <object id="67" x="1556" y="-98.6667" width="20" height="24"/>
+ </objectgroup>
+</map>

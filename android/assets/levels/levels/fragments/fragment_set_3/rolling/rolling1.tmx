@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="253" height="220" tilewidth="25" tileheight="25" nextobjectid="261">
+ <layer name="Tile Layer 1" width="253" height="220">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwJ8BZd0AAQ==
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="253" height="220">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwJ8BZd0AAQ==
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="253" x="8" y="328">
+   <polyline points="0,0 216,4 492,48 680,104 872,180 1072,312 1400,568 1684,844"/>
+  </object>
+  <object id="254" x="1692" y="1172">
+   <polyline points="0,0 160,228 424,608 684,1124 1192,2288 1428,2780"/>
+  </object>
+  <object id="255" x="3128" y="3952">
+   <polyline points="0,0 272,328 496,584 792,808 1056,952 1388,1024 1840,1068"/>
+  </object>
+  <object id="256" x="4980" y="5020">
+   <polyline points="0,0 852.923,4 1408,8"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits"/>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles"/>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat"/>
+ <objectgroup name="dog"/>
+ <objectgroup name="bee">
+  <object id="250" x="1680" y="46" width="24" height="32">
+   <properties>
+    <property name="firstSpawn" value="3"/>
+    <property name="multiplicator" value="1.2"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+  <object id="257" x="3846" y="1212" width="28" height="32">
+   <properties>
+    <property name="firstSpawn" value="1"/>
+    <property name="multiplicator" value="1.5"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+  <object id="258" x="4494" y="2276" width="28" height="32">
+   <properties>
+    <property name="firstSpawn" value="1"/>
+    <property name="multiplicator" value="1.5"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+  <object id="259" x="5118" y="3076" width="28" height="32">
+   <properties>
+    <property name="firstSpawn" value="1"/>
+    <property name="multiplicator" value="1.5"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+  <object id="260" x="5094" y="4252" width="28" height="32">
+   <properties>
+    <property name="firstSpawn" value="1"/>
+    <property name="multiplicator" value="1.5"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="20" tilewidth="25" tileheight="25" nextobjectid="236">
+ <layer name="Tile Layer 1" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgJD+r+4ICgAAAAAAAAAAAAAAAAAAAGo+gAAB
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgJD+r+4ICgAAAAAAAAAAAAAAAAAAAGo+gAAB
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="85" x="24" y="416">
+   <polyline points="0,0 27.1782,-40 115.168,-36.0597 964.544,-35.5522 1382.04,-17.851"/>
+  </object>
+  <object id="86" x="1412" y="400">
+   <polyline points="0,0 1232,-8 2256,-4 7620,-12"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits">
+  <object id="224" x="1868" y="330" height="4"/>
+  <object id="225" x="1880" y="344"/>
+  <object id="226" x="1940" y="312"/>
+  <object id="227" x="1930" y="294" height="4"/>
+  <object id="228" x="1900" y="296"/>
+  <object id="229" x="1888" y="302" height="4"/>
+  <object id="230" x="1878" y="308"/>
+  <object id="231" x="1854" y="318"/>
+ </objectgroup>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles">
+  <object id="210" x="132" y="372">
+   <polyline points="0,0 -2,-88 -82,-88 -80,4"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat">
+  <object id="221" x="1818" y="276"/>
+  <object id="222" x="1788" y="308" height="2"/>
+  <object id="223" x="1818" y="312"/>
+ </objectgroup>
+ <objectgroup name="dog">
+  <object id="211" x="92" y="334"/>
+  <object id="218" x="1682" y="300"/>
+  <object id="219" x="1730" y="324"/>
+  <object id="220" x="1764" y="300"/>
+ </objectgroup>
+ <objectgroup name="bee">
+  <object id="200" x="2994" y="48" width="12" height="22"/>
+  <object id="201" x="3054" y="48" width="18" height="30"/>
+  <object id="202" x="4316" y="38" width="22" height="34"/>
+  <object id="203" x="4824" y="-122" width="8" height="20"/>
+  <object id="232" x="1860" y="124"/>
+  <object id="233" x="1892" y="174"/>
+  <object id="234" x="1932" y="148"/>
+  <object id="235" x="1918" y="100"/>
+ </objectgroup>
+</map>

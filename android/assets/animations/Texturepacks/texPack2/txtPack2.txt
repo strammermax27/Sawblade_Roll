@@ -1,0 +1,355 @@
+txtPack2.png
+size: 1939, 1609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flyingBee.0000
+  rotate: false
+  xy: 0, 0
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0001
+  rotate: false
+  xy: 200, 0
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0002
+  rotate: false
+  xy: 400, 0
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0003
+  rotate: false
+  xy: 600, 0
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0004
+  rotate: false
+  xy: 800, 0
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0005
+  rotate: false
+  xy: 1000, 0
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0006
+  rotate: false
+  xy: 1200, 0
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0007
+  rotate: false
+  xy: 1400, 0
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0008
+  rotate: false
+  xy: 1600, 0
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0009
+  rotate: false
+  xy: 0, 82
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0010
+  rotate: false
+  xy: 200, 82
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0011
+  rotate: false
+  xy: 400, 82
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0012
+  rotate: false
+  xy: 600, 82
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0013
+  rotate: false
+  xy: 800, 82
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0014
+  rotate: false
+  xy: 1000, 82
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0015
+  rotate: false
+  xy: 1200, 82
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0016
+  rotate: false
+  xy: 1400, 82
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0017
+  rotate: false
+  xy: 1600, 82
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+flyingBee.0018
+  rotate: false
+  xy: 0, 164
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0000
+  rotate: false
+  xy: 200, 164
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0001
+  rotate: false
+  xy: 477, 164
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0002
+  rotate: false
+  xy: 754, 164
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0003
+  rotate: false
+  xy: 1031, 164
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0004
+  rotate: false
+  xy: 1308, 164
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0005
+  rotate: false
+  xy: 1585, 164
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0006
+  rotate: false
+  xy: 0, 453
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0007
+  rotate: false
+  xy: 277, 453
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0008
+  rotate: false
+  xy: 554, 453
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0009
+  rotate: false
+  xy: 831, 453
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0010
+  rotate: false
+  xy: 1108, 453
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0011
+  rotate: false
+  xy: 1385, 453
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0012
+  rotate: false
+  xy: 1662, 453
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0013
+  rotate: false
+  xy: 0, 742
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0014
+  rotate: false
+  xy: 277, 742
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0015
+  rotate: false
+  xy: 554, 742
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0016
+  rotate: false
+  xy: 831, 742
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0017
+  rotate: false
+  xy: 1108, 742
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0018
+  rotate: false
+  xy: 1385, 742
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0019
+  rotate: false
+  xy: 1662, 742
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0020
+  rotate: false
+  xy: 0, 1031
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0021
+  rotate: false
+  xy: 277, 1031
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0022
+  rotate: false
+  xy: 554, 1031
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0023
+  rotate: false
+  xy: 831, 1031
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0024
+  rotate: false
+  xy: 1108, 1031
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0025
+  rotate: false
+  xy: 1385, 1031
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0026
+  rotate: false
+  xy: 1662, 1031
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0027
+  rotate: false
+  xy: 0, 1320
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0028
+  rotate: false
+  xy: 277, 1320
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0029
+  rotate: false
+  xy: 554, 1320
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1
+walking_BigGoat_lowQuality.0030
+  rotate: false
+  xy: 831, 1320
+  size: 277, 289
+  orig: 277, 289
+  offset: 0, 0
+  index: -1

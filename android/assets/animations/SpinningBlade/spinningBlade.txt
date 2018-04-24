@@ -1,0 +1,75 @@
+spinningBlades.png
+size: 936, 705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SpinningSawblade.0001
+  rotate: false
+  xy: 0, 0
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+SpinningSawblade.0002
+  rotate: false
+  xy: 234, 0
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+SpinningSawblade.0003
+  rotate: false
+  xy: 468, 0
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+SpinningSawblade.0004
+  rotate: false
+  xy: 702, 0
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+SpinningSawblade.0005
+  rotate: false
+  xy: 0, 235
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+SpinningSawblade.0006
+  rotate: false
+  xy: 234, 235
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+SpinningSawblade.0007
+  rotate: false
+  xy: 468, 235
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+SpinningSawblade.0008
+  rotate: false
+  xy: 702, 235
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+SpinningSawblade.0009
+  rotate: false
+  xy: 0, 470
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+SpinningSawblade.0010
+  rotate: false
+  xy: 234, 470
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1

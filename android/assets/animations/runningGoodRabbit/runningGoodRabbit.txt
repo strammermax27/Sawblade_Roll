@@ -1,0 +1,313 @@
+runningGoodRabbit.png
+size: 1800, 1944
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+runnungGoodRabbit.0013
+  rotate: false
+  xy: 0, 0
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0014
+  rotate: false
+  xy: 300, 0
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0015
+  rotate: false
+  xy: 600, 0
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0016
+  rotate: false
+  xy: 900, 0
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0017
+  rotate: false
+  xy: 1200, 0
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0018
+  rotate: false
+  xy: 1500, 0
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0019
+  rotate: false
+  xy: 0, 243
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0020
+  rotate: false
+  xy: 300, 243
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0021
+  rotate: false
+  xy: 600, 243
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0022
+  rotate: false
+  xy: 900, 243
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0023
+  rotate: false
+  xy: 1200, 243
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0024
+  rotate: false
+  xy: 1500, 243
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0025
+  rotate: false
+  xy: 0, 486
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0026
+  rotate: false
+  xy: 300, 486
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0027
+  rotate: false
+  xy: 600, 486
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0028
+  rotate: false
+  xy: 900, 486
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0029
+  rotate: false
+  xy: 1200, 486
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0030
+  rotate: false
+  xy: 1500, 486
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0031
+  rotate: false
+  xy: 0, 729
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0032
+  rotate: false
+  xy: 300, 729
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0033
+  rotate: false
+  xy: 600, 729
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0034
+  rotate: false
+  xy: 900, 729
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0035
+  rotate: false
+  xy: 1200, 729
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0036
+  rotate: false
+  xy: 1500, 729
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0037
+  rotate: false
+  xy: 0, 972
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0038
+  rotate: false
+  xy: 300, 972
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0039
+  rotate: false
+  xy: 600, 972
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0040
+  rotate: false
+  xy: 900, 972
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0041
+  rotate: false
+  xy: 1200, 972
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0042
+  rotate: false
+  xy: 1500, 972
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0043
+  rotate: false
+  xy: 0, 1215
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0044
+  rotate: false
+  xy: 300, 1215
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0045
+  rotate: false
+  xy: 600, 1215
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0046
+  rotate: false
+  xy: 900, 1215
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0047
+  rotate: false
+  xy: 1200, 1215
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0048
+  rotate: false
+  xy: 1500, 1215
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0049
+  rotate: false
+  xy: 0, 1458
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0050
+  rotate: false
+  xy: 300, 1458
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0051
+  rotate: false
+  xy: 600, 1458
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0052
+  rotate: false
+  xy: 900, 1458
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0053
+  rotate: false
+  xy: 1200, 1458
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0054
+  rotate: false
+  xy: 1500, 1458
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0055
+  rotate: false
+  xy: 0, 1701
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+runnungGoodRabbit.0056
+  rotate: false
+  xy: 300, 1701
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1

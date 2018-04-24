@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="20" tilewidth="25" tileheight="25" nextobjectid="43">
+ <tileset firstgid="1" name="tileset1" tilewidth="25" tileheight="25" tilecount="1218">
+  <tileoffset x="1" y="1"/>
+  <image source="../tilesets/tileset1.png" trans="55ff00" width="744" height="1052"/>
+ </tileset>
+ <layer name="Backround" width="200" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMA6DBY6x/zwW5gr2kqqqqqqqqqqqqqqqqqqqqvj+D0dTQ
+  </data>
+ </layer>
+ <layer name="Animations" width="200" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztmg2OgjAQRonxftU9h+g5gL2FF12IkkzGts50gP7s95IvJqZiKfMstHYdAAAAAAAAAAAAAABAy/P0iqXt+n5qACgZaQ37atrqRml+uHPXXQS5viNpG/oMqANrbbfmRx/InaQnr5qMcyY4UhW5arskP9y7dkOZWEbympIJflRF7b/7FnxurLW/JSFH4Ek7/Ac3xh3cWMA8Amri2z2V9Bg/wrYxP+BIe7hKr+m6RhWqV40ft7ndI9EP/kwDyiD1OYKvffaRa7rVfdjWzzwxN1Lmj2Fu92v0IzSPtPzMVzKaMXfMB5otjq/tq+WYjpxHbN44yo+R+cEdgRt5iI27b3+sD9SU5Nh7+JFCyI3YGq2EFD+mwPdyR2ha90Ozz5ozmjV8H5Z69rl5Zck9PtJ98tx9sPafrjlI/1NgiXafNVesfnBXNNw8/bmfP/etUzIcOIaWfpaQpf90zcF3XXLWXYlJvT/XMBRwnnuNVU1Z+k/vGY+4Ln9QF9Lz
+  </data>
+ </layer>
+ <objectgroup name="StaticObjects">
+  <object id="1" x="0" y="500">
+   <polygon points="0,0 1225,0 1225,-75 0,-75"/>
+  </object>
+  <object id="2" x="1825" y="425">
+   <polyline points="0,0 675,0 675,-75 725,-75 725,-100 775,-100 775,-150 825,-150 825,-225 900,-225 900,-250 1450,-250 1450,0 2475,0 2475,75 0,75 0,0"/>
+  </object>
+  <object id="3" x="3225" y="425">
+   <polyline points="0,0 -500,0 -500,-150 -475,-150 -425,-175 0,-175 0,0"/>
+  </object>
+  <object id="4" x="125" y="425" width="50"/>
+  <object id="6" x="4375" y="425">
+   <polyline points="0,0 0,75 625,75 625,0 0,0"/>
+  </object>
+  <object id="7" x="3800" y="125">
+   <polyline points="0,0 100,-100"/>
+  </object>
+  <object id="8" x="3900" y="25">
+   <polyline points="0,0 -25,-25 -125,-25"/>
+  </object>
+  <object id="9" x="3700" y="150">
+   <polyline points="0,0 -75,-150"/>
+  </object>
+  <object id="10" x="1000" y="425">
+   <polyline points="0,0 350,-100 325,-50"/>
+  </object>
+  <object id="11" x="2375" y="425">
+   <polyline points="0,0 300,-250 350,-250"/>
+  </object>
+  <object id="12" x="2300" y="425">
+   <polyline points="0,0 100,-25"/>
+  </object>
+  <object id="13" x="3275" y="175">
+   <polyline points="0,0 50,25 100,75 150,150 200,200 250,225 375,250"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits">
+  <object id="14" x="1900" y="650" width="75"/>
+  <object id="15" x="2250" y="400" width="25" height="25"/>
+  <object id="16" x="2325" y="400" width="25" height="25"/>
+  <object id="17" x="3500" y="-100" width="25" height="25"/>
+  <object id="18" x="3550" y="-100" width="25" height="25"/>
+  <object id="19" x="3600" y="-100" width="25" height="25"/>
+  <object id="20" x="3725" y="100"/>
+  <object id="21" x="3750" y="75"/>
+  <object id="22" x="3700" y="50"/>
+  <object id="23" x="3775" y="25"/>
+  <object id="24" x="3025" y="400"/>
+  <object id="25" x="3000" y="400"/>
+  <object id="26" x="775" y="400"/>
+  <object id="27" x="725" y="400"/>
+  <object id="28" x="825" y="400"/>
+  <object id="29" x="4700" y="400"/>
+  <object id="30" x="2925" y="400"/>
+ </objectgroup>
+ <objectgroup name="Sawblades">
+  <object id="31" x="3797" y="17" width="225" height="225">
+   <properties>
+    <property name="left_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="32" x="3600" y="100" width="125" height="125">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="33" x="3075" y="300" width="125" height="125">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="34" x="1525" y="425" width="275" height="275">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="35" x="1250" y="350" width="275" height="250">
+   <properties>
+    <property name="right_spin" value=""/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="36" x="2775" y="300" width="125" height="125">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Money">
+  <object id="38" x="2950" y="125" width="50" height="50"/>
+ </objectgroup>
+ <objectgroup name="rabbit-obstacles">
+  <object id="39" x="2950" y="300" width="25" height="125"/>
+ </objectgroup>
+ <objectgroup name="experimental">
+  <object id="41" x="600" y="25">
+   <polyline points="0,0 100,75 125,0 0,0"/>
+  </object>
+  <object id="42" x="-25" y="500">
+   <polygon points="0,0 -25,0 -25,-75 0,-75"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="testrabbit"/>
+</map>

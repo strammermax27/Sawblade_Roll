@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="120" height="200" tilewidth="25" tileheight="25" nextobjectid="243">
+ <layer name="Tile Layer 1" width="120" height="200">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U1/gCFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8A3cPAAE=
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="120" height="200">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U1/gCFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8A3cPAAE=
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="236" x="-29.3333" y="129.33">
+   <polyline points="36,4 272,769.333 322.667,970.667 348,1144 360,1448 370.667,1701.33"/>
+  </object>
+  <object id="237" x="342.667" y="1830.67">
+   <polyline points="0,0 6.66667,38.6667 21.3333,66.6667 41.3333,118.667 48,173.333 46.6667,225.333"/>
+  </object>
+  <object id="238" x="389.333" y="2056">
+   <polyline points="0,0 4,32 13.3333,65.3333 26.6667,88 38.6667,112 42.6667,157.333 49.3333,182.667"/>
+  </object>
+  <object id="239" x="437.333" y="2232">
+   <polyline points="0,0 18.6667,26.6667 42.6667,45.3333 113.333,66.6667 150.667,85.3333"/>
+  </object>
+  <object id="240" x="592" y="2321.33">
+   <polyline points="0,0 58.6667,34.6667 140,97.3333 244,240 360,361.333 458.667,420"/>
+  </object>
+  <object id="241" x="1050.67" y="2741.33">
+   <polyline points="0,0 126.667,52 266.667,74.6667 352,105.333 416,158.667 517.333,289.333 649.333,490.667"/>
+  </object>
+  <object id="242" x="1702" y="3232">
+   <polyline points="0,0 216,392 530,1168 798,1890"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits"/>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles"/>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat"/>
+ <objectgroup name="dog"/>
+ <objectgroup name="bee"/>
+</map>

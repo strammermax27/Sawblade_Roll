@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="60" tilewidth="25" tileheight="25" nextobjectid="258">
+ <layer name="Tile Layer 1" width="200" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1pCaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4Aa7gAAB
+  </data>
+ </layer>
+ <layer name="Copy of Tile Layer 1" width="200" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1pCaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4Aa7gAAB
+  </data>
+ </layer>
+ <objectgroup name="Static_Objects">
+  <object id="237" x="8" y="1296">
+   <polyline points="0,0 210,6 384,-48 382,6 646,4"/>
+  </object>
+  <object id="257" x="656" y="1298">
+   <polyline points="0,0 1404,2"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Rabbits">
+  <object id="238" x="418" y="1264">
+   <properties>
+    <property name="firstSpawn" value="1"/>
+    <property name="multiplicator" value="1.7"/>
+    <property name="normalCount" value="3"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="SawBlades"/>
+ <objectgroup name="invisibles"/>
+ <objectgroup name="rabbit_Obstacles"/>
+ <objectgroup name="big_goat">
+  <object id="251" x="1732" y="1208">
+   <properties>
+    <property name="firstSpawn" value="1"/>
+    <property name="multiplicator" value="1.1"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="dog">
+  <object id="252" x="1780" y="1220">
+   <properties>
+    <property name="firstSpawn" value="1"/>
+    <property name="multiplicator" value="1.3"/>
+    <property name="normalCount" value="2"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="bee">
+  <object id="246" x="1800" y="1040">
+   <properties>
+    <property name="firstSpawn" value="3"/>
+    <property name="mutiplicator" value="1.4"/>
+    <property name="normalCount" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
